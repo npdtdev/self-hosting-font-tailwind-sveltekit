@@ -1,0 +1,5 @@
+@import url('/fonts/chillax.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
